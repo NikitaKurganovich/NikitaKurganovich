@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://vk.com/doc504049601_661477398?hash=eBEX69sNiIsFh7hQEzPwShwtwQaCrn4uAyG0uhkxD9z&dl=KliAxMDZLoKrZ4X5ayHiIB7qnICyhiOELqJZcvZjIgc)" width="600" height="300"/>
+  <img src="HI.gif" width="600" height="300"/>
 </div>
 
 ### Hi! 👋 My name is Nikita Kurganovich (somebody could know me as Babananick). 
