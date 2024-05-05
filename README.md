@@ -2,6 +2,7 @@
   <img src="HI.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
 ### Hi! 👋 My name is Nikita Kurganovich (somebody could know me as Babananick). 
 ### I am android developer at Vebtech.
 
@@ -53,17 +54,4 @@ Android developer at VebTech. During my work, I took part in the development of 
 #### BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS
 ##### September 2021 - Now
 BSUIR student in the Faculty of Computer-Aided Design. Academic department of Engineering Psychology and Ergonomics. Specialization: Engineering and Psychological Support of Information Technologies (UI/UX design).
-<!--
-**NikitaKurganovich/NikitaKurganovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
