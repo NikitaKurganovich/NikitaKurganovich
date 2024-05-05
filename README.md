@@ -36,6 +36,8 @@
 |:--:|:--:|:--:|:--:|
 |Android Studio|Figma|Intellij Idea|Jira|
 
+******
+
 ### :desktop_computer: Projects:
 
 #### :man_health_worker: Medicine Card Tracking System for Med center “Merci”
