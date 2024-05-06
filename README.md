@@ -21,7 +21,7 @@
 ******
 
 ### :muscle: Skills:
-#### Languages and frameworks
+#### Languages, frameworks and stacks
 
 |<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Compose Multiplatform" alt="Compose Multiplatform" width="40" height="40"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/ktor/ktor-original.svg" title="Ktor" alt="Ktor" width="40" height="40"/>|
 | :---:| :---: |:---:          |:---:|:-:|
