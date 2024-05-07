@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="HI.gif" width="600" height="300"/>
+  <img src="HI.gif" alt="HELLO" style="border-radius:10%;height:300px;width:600px;">
   <div id="badges">
     <a href="https://www.linkedin.com/in/nikita-kurganovich-42a974292/">
-      <img src="https://img.shields.io/badge/My_LinkedIn_<3-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/My_LinkedIn_<3-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
   </div>
 
