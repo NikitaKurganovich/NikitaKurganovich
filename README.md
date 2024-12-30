@@ -12,18 +12,17 @@
 </div>
 
 ``` kotlin
-val babananick = object : Developer by AndroidAndComposeMultiplatformDev {
-    override val fullname: String = "Mikita Kurganovich"
-    override val workingAt: Company = Vebtech
-    override val projects: List<Project> = with(Vebtech) {
+val babananick = developer by AndroidAndComposeMultiplatformDeveloper {
+    fullname = "Mikita Kurganovich"
+    workingAt = Vebtech
+    role = AndroidDev
+    projects = with(Vebtech) {
         listOf(
             ComposeMultiplatformUIkit,
             InstallmentPayApp
         )
     }
-    
-    override fun sayMyMotto() =
-        println("It is better to be able and not need, than to need and not be able")
+    motto = "It is better to be able and not need, than to need and not be able"
 }
 ```
 
