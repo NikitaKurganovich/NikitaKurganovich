@@ -16,11 +16,13 @@ val babananick = developer by AndroidAndComposeMultiplatformDeveloper {
     fullname = "Mikita Kurganovich"
     workingAt = Vebtech
     role = AndroidDev
-    projects = with(Vebtech) {
-        listOf(
-            ComposeMultiplatformUIkit,
-            InstallmentPayApp
-        )
+    projects = buildList{
+        with(Vebtech) {
+          listOf(
+              ComposeMultiplatformUIkit,
+              InstallmentPayApp
+          )
+      }
     }
     motto = "It is better to be able and not need, than to need and not be able"
 }
