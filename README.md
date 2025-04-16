@@ -18,7 +18,7 @@ val babananick = developer by AndroidAndComposeMultiplatformDeveloper {
     role = AndroidDev
     projects = buildList{
         with(Vebtech) {
-          listOf(
+          addAll(
               ComposeMultiplatformUIkit,
               InstallmentPayApp
           )
