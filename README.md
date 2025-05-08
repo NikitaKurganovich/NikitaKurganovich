@@ -13,18 +13,25 @@
 
 ``` kotlin
 val babananick = developer by AndroidAndComposeMultiplatformDeveloper {
-    fullname = "Mikita Kurganovich"
-    workingAt = Vebtech
-    role = AndroidDev
-    projects = buildList{
-        with(Vebtech) {
-          addAll(
-              ComposeMultiplatformUIkit,
-              InstallmentPayApp
-          )
-      }
+  fullname = "Mikita Kurganovich"
+  workingAt = IDFTechnology
+  role = KotlinMutliplatformEngineer
+
+  motto = "It is better to be able and not need, than to need and not be able"
+
+  projects = buildList{
+    with(Vebtech) {
+      addAll(
+        ComposeMultiplatformUIkit,
+        InstallmentPayApp
+      )
     }
-    motto = "It is better to be able and not need, than to need and not be able"
+    with(IDFTechnology){
+      addAll(
+        HRPortal
+      )
+    }
+  }
 }
 ```
 
